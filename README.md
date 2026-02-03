@@ -6,4 +6,4 @@ PowerFit Gym is a modern and window website created using HTML and CSS. It provi
  ## 🚀 Live Demo
 You can view the live demo:
 
-🔗 [Live demo](https://ecom-store-jt6x.onrender.com/)
+🔗 [Live demo]( https://vimalmbca-oss.github.io/gym.html-miniproject/)
