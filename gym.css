@@ -1,0 +1,452 @@
+    body
+    {
+        margin: 0;
+    }
+    .a
+        {
+            width:100vw;
+            height: 100vh;
+            background-color: blueviolet;
+        }
+        .a1
+        {
+            width: 300px;
+            height:300px;
+            border: 2px solid blueviolet;
+            border-radius: 50%;
+            position: relative;
+            top:-50px;
+            left: 180px;
+        }
+        .a2
+        {
+            width: 430px;
+            height: 430px;
+            border: 10px solid pink;
+            border-radius: 50%;
+            position: relative;
+            top: 100px;
+            left: 450px;
+            
+        }
+        .b
+        {
+           width:100vw;
+            height: 100vh;
+            background-color: blueviolet; 
+        }
+        .b1
+        {
+            width: 180px;
+            height: 180px;
+            background-color: pink;
+            border-radius: 50%;
+            position: relative;
+            left: 160px;
+            top: -180px;
+        }
+        .b2
+        {
+            text-align: center;
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 60px;
+            position: relative;
+            top: -300px;
+        }
+        .b3
+        {
+           text-align: center;
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+            position: relative;
+            top: -300px;
+        }
+        .b4
+        {
+            position: relative;
+            text-align: center;
+            top: -300px;
+            color: white;
+        }
+        .b5
+        {
+            border: 2px solid;
+            text-decoration: none;
+            position: relative;
+            top: -250px;
+            left: 530px;
+            color: white;
+            font-size: 20px;
+            padding: 15px 40px;
+            border-radius: 15px;
+        }
+        .b5:hover
+        {
+            color:blueviolet;
+            background-color:white;
+            border: 2px blueviolet;
+        }
+        .c
+        {
+          width:100vw;
+            height: 100vh;
+            background-color: blueviolet;   
+        }
+        .c1
+        {
+            border-radius: 50%;
+            width: 450px;
+            height: 450px;
+            position: relative;
+            top: -180px;
+            left: 100px;
+        }
+        .c2
+        {
+            width: 250px;
+            height: 250px;
+            border-radius: 50%;
+            position: relative;
+            left: 450px;
+            top: -400px;
+        }
+        .d
+        {
+            width: 100vw;
+            height: 100vh;
+            background-color: blueviolet;
+        }
+        .d1
+        {
+            width: 200px;
+            height: 350px;
+            background-color: white;
+            position: relative;
+            left: 100px;
+            top:-200px
+            
+        }
+        .d2
+        {
+            width: 200px;
+            height: 350px;
+            background-color: white;
+            position: relative;
+            left: 100px;
+            top:-180px
+        }
+        .d3
+        {
+           width: 200px;
+            height: 350px;
+            background-color: white;
+            position: relative;
+            left: 320px;
+            top:-690px 
+        }
+        .d4
+        {
+           width: 200px;
+            height: 350px;
+           background-color: white;
+            position: relative;
+            left: 540px;
+            top:-1250px   
+        }
+        .d5
+        {
+            width: 200px;
+            height: 350px;
+            background-color: white;
+            position: relative;
+            left: 540px;
+            top:-1230px 
+        }
+        .d11
+        {
+         width: 200px;
+         height: 270px;   
+        }
+        .d12
+        {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .e
+        {
+            width: 100vw;
+            height: 100vh;
+            background-color: blueviolet;
+            margin-top: -50px;
+        }
+        .e1
+        {
+            color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 50px;
+            position: relative;
+            left: 800px;
+            top: -830px;           
+        }
+        .e2
+        {
+           color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+            position: relative;
+            left: 800px;
+            top: -830px;    
+        }
+        .e3
+        {
+          color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+            position: relative;
+            left: 800px;
+            top: -830px;     
+        }
+        .e4
+        {
+            width: 450px;
+            position: relative;
+            left: 350px;
+            top: -810px; 
+        }
+        .e5
+        {
+            color: white;
+            position: relative;
+            left: 340px;
+            top:-850px   
+
+        }
+        .e6
+        {
+           color: white;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 50px;
+            position: relative;
+            top: -650px; 
+            text-align: center;
+        }
+        .f
+        {
+           width: 100vw;
+            height: 100vh;
+            background-color: blueviolet;
+        }
+        .f1
+        {
+            width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 120px;
+            top: -200px;
+        }
+        .f2
+        {
+           width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 400px;
+            top: -700px; 
+        }
+        .f3
+        {
+            width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 680px;
+            top: -1200px; 
+        }
+        .f4
+        {
+            width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 960px;
+            top: -1700px; 
+        }
+        .k
+        {
+            width: 100vw;
+            height: 100vh;
+            background-color: blueviolet;
+        }
+        .k1
+        {
+         width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 120px;
+            top: -300px;   
+        }
+        .k2
+        {
+         width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 400px;
+            top: -800px;   
+        }
+        .k3
+        {
+           width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 680px;
+            top: -1300px; 
+        }
+        .k4
+        {
+           width: 250px;
+            height: 500px;
+            background-color: white;
+            border-radius: 30px;
+            position: relative;
+            left: 960px;
+            top: -1800px;   
+        }
+        .f11
+        {
+            width: 200px;
+            height: 200px;        
+            padding: 25px 25px;
+            border-radius:20%;
+        }
+        .f12
+        {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .f13
+        {
+           text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: rgb(68, 67, 67);; 
+        }
+        .f14
+        {
+           text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;      
+        }
+        .f15
+        {
+            color: white;
+            position: relative;
+            top: 70px;
+            right: 400px;
+        }
+        .g
+        {
+            width: 100vw;
+            height: 100vh;
+            background-color: blueviolet;
+            margin-top: -50px;
+
+        }
+        .g1
+        {
+            color: white;
+            text-align: center;
+            font-size: 50px;
+            position: relative;
+            top: -250px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        }
+        .g2
+        {
+            color: white;
+            text-align: center;
+            position: relative;
+            top: -250px;
+        }
+        .g3
+        {
+            width: 330px;
+            height: 500px;
+            background-color: white;
+            position: relative;
+            top: -160px;
+            left: 120px;
+            border-radius: 30px;
+        }
+        .g4
+        {
+            width: 330px;
+            height: 500px;
+            background-color: white;
+            position: relative;
+            top: -660px;
+            left: 480px;
+            border-radius: 30px;
+        }
+        .g5
+        {
+            width: 330px;
+            height: 500px;
+            background-color: white;
+            position: relative;
+            top: -1160px;
+            left: 840px;
+            border-radius: 30px;
+        }
+        .g33
+        {
+            width: 300px;
+            height: 300px;
+          position: relative;
+          top: 15px;
+          left: 15px;
+          border-radius: 30px;
+            
+        }
+        .g34
+        {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            position: relative;
+            top: 20px;
+        }
+        .g35
+        {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            position: relative;
+            top: 20px;
+            color:rgb(68, 67, 67);
+        }
+        .g36
+        {
+           text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            position: relative;
+            top: 20px; 
+        }
+        .g37
+        {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            position: relative;
+            top: -60px;
+            color: white;
+        }
+        .g38
+        {
+           color: white;
+        }
